@@ -1,4 +1,4 @@
-# DJI OcuSync Protocol Research
+# DJI Drone OcuSync Protocol Reverse Engineering (O3 / O4 / O4+)
 
 ### Physical-Layer Analysis and Signal Decoding of O3, O4, and O4+
 
